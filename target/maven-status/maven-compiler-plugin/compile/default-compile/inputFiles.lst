@@ -1,2 +1,5 @@
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/SpringLab01Application.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/config/AppProperties.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/config/EnvironmentBanner.java
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/web/HelloController.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/web/Lab3Controller.java

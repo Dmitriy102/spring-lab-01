@@ -1,5 +1,13 @@
-kz/iitu/springlab/web/HelloController$Greeting.class
-kz/iitu/springlab/web/HelloController.class
 kz/iitu/springlab/web/HelloController$Info.class
-kz/iitu/springlab/SpringLab01Application.class
+kz/iitu/springlab/config/ProdBanner.class
+kz/iitu/springlab/config/DefaultBanner.class
 kz/iitu/springlab/web/HelloController$CalcResult.class
+kz/iitu/springlab/web/HelloController.class
+kz/iitu/springlab/config/DevBanner.class
+kz/iitu/springlab/web/Lab3Controller.class
+kz/iitu/springlab/SpringLab01Application.class
+kz/iitu/springlab/config/AppProperties$Mail.class
+kz/iitu/springlab/config/AppProperties.class
+kz/iitu/springlab/web/HelloController$Greeting.class
+kz/iitu/springlab/config/AppProperties$Ui.class
+kz/iitu/springlab/config/EnvironmentBanner.class

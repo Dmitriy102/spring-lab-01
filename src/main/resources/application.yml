@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: spring-lab
+
+server:
+  port: 8080
+
+app:
+  owner: Ivanov Ivan          
+  group: IS-2301               
+  mail:
+    from: no-reply@iitu.kz
+    retry-count: 3
+    timeout: 5s
+    enabled: true
+  ui:
+    theme: LIGHT
+    items-per-page: 15
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,env,configprops,conditions

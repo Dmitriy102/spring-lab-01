@@ -1,5 +1,14 @@
-kz/iitu/springlab/web/HelloController$Greeting.class
-kz/iitu/springlab/web/HelloController.class
+kz/iitu/springlab/aspect/CallCounterAspect.class
+kz/iitu/springlab/aspect/TimingAspect.class
 kz/iitu/springlab/web/HelloController$Info.class
-kz/iitu/springlab/SpringLab01Application.class
+kz/iitu/springlab/controller/CatalogController.class
+kz/iitu/springlab/aspect/Pointcuts.class
 kz/iitu/springlab/web/HelloController$CalcResult.class
+kz/iitu/springlab/aspect/LoggingAspect.class
+kz/iitu/springlab/web/HelloController.class
+kz/iitu/springlab/SpringLab01Application.class
+kz/iitu/springlab/controller/StatsController.class
+kz/iitu/springlab/audit/Audited.class
+kz/iitu/springlab/aspect/AuditAspect.class
+kz/iitu/springlab/service/CatalogService.class
+kz/iitu/springlab/web/HelloController$Greeting.class

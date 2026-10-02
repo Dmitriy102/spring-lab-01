@@ -1,2 +1,11 @@
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/SpringLab01Application.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/aspect/AuditAspect.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/aspect/CallCounterAspect.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/aspect/LoggingAspect.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/aspect/Pointcuts.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/aspect/TimingAspect.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/audit/Audited.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/controller/CatalogController.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/controller/StatsController.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/service/CatalogService.java
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/web/HelloController.java

@@ -1,5 +1,10 @@
-kz/iitu/springlab/web/HelloController$Greeting.class
-kz/iitu/springlab/web/HelloController.class
+kz/iitu/springlab/web/BookRestController.class
 kz/iitu/springlab/web/HelloController$Info.class
-kz/iitu/springlab/SpringLab01Application.class
 kz/iitu/springlab/web/HelloController$CalcResult.class
+kz/iitu/springlab/web/HelloController.class
+kz/iitu/springlab/catalog/Book.class
+kz/iitu/springlab/SpringLab01Application.class
+kz/iitu/springlab/web/BookPageController.class
+kz/iitu/springlab/catalog/BookService.class
+kz/iitu/springlab/web/HelloController$Greeting.class
+kz/iitu/springlab/catalog/BookRepository.class

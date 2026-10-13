@@ -1,2 +1,7 @@
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/SpringLab01Application.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/catalog/Book.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/catalog/BookRepository.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/catalog/BookService.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/web/BookPageController.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/web/BookRestController.java
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/web/HelloController.java

@@ -1,5 +1,9 @@
-kz/iitu/springlab/web/HelloController$Greeting.class
-kz/iitu/springlab/web/HelloController.class
+kz/iitu/springlab/AppUserRepository.class
 kz/iitu/springlab/web/HelloController$Info.class
-kz/iitu/springlab/SpringLab01Application.class
+kz/iitu/springlab/SecurityConfiguration.class
 kz/iitu/springlab/web/HelloController$CalcResult.class
+kz/iitu/springlab/web/HelloController.class
+kz/iitu/springlab/web/HelloController$Greeting.class
+kz/iitu/springlab/DatabaseUserDetailsService.class
+kz/iitu/springlab/AppUser.class
+kz/iitu/springlab/SpringLab01Application.class

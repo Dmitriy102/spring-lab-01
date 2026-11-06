@@ -1,2 +1,6 @@
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/AppUser.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/AppUserRepository.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/DatabaseUserDetailsService.java
+/workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/SecurityConfiguration.java
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/SpringLab01Application.java
 /workspaces/spring-lab-01/src/main/java/kz/iitu/springlab/web/HelloController.java
